@@ -1,6 +1,42 @@
----
-theme :
-  name : twitter
----
-{% include JB/setup %}
-{% include themes/twitter/default.html %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link href="/stylesheets/default.css?9" rel="stylesheet" type="text/css">
+    <link href="/stylesheets/highlight.css?9" rel="stylesheet" type="text/css">
+    <link href="http://feeds2.feedburner.com/tatejohnson" rel="alternate" title="GameCook" type="application/atom+xml">
+    <link href='/images/favicon.ico' rel='shortcut icon' type='image/ico'>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-8340632-1']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  </head>
+  <body>
+    <h1><a href="{{ base.url }}/">Game Cook</h1>
+    <nav>
+        {% unless page.layout == 'front' %}
+        <ul>
+            {% for link in site.navigation %}
+            {% assign current = nil %}
+            {% if page.url == link.url or (page.url == "/index.html" and link.url == "/") %}
+            {% assign current = 'current' %}
+            {% endif %}
+            <li class="{% if forloop.first %}first{% endif %} {{ current }} {% if forloop.last %}last{% endif %}">
+                <a class="{{ current }}" href="{{ link.url }}">{{ link.text }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+        {% endunless %}
+        {{ content }}
+    </nav>
+
+
+  </body>
+</html>
