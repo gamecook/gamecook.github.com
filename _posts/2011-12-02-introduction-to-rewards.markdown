@@ -5,7 +5,7 @@ title: Introduction To Rewards
 
 One of the core systems of any game are rewards. Over the years games have evolved from having simple high scores tables to complex unlocking reward systems. In the casual gaming space rewarding players for continuing to play the game is a must. Let’s take a look at eight simple reward systems you can implement in your game:
 
-*   **Level Selection** - Allowing users to pick the levels they want to play and unlocking now ones the more further they go in the game.
+*   **Level Selection** - Allowing users to pick the levels they want to play and unlocking new ones the further they go in the game.
 
 *   **Steps To Completion** - While playing through a game show the user how many steps are needed in order to complete the level or game. Showing progress helps players set their own goals and achieve them.
 
