@@ -17,7 +17,7 @@ title: Resident Raver
 <canvas id="canvas"></canvas>
 
 ##Instructions
-Left/Right arrows move. Up arrow opens doors. X jumps and Y shoots. Esacpe pauses the game and Q quits while a game is paused.
+Left/Right arrows move. Up arrow opens doors. X jumps and C shoots. Esacpe pauses the game and Q quits while a game is paused.
 
 ##Download
 Coming Soon!
