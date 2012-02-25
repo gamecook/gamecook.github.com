@@ -1,0 +1,1 @@
+swfobject.embedSWF("FRogueApp.swf", "myContent", "761px", "301", "9.0.0");

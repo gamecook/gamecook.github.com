@@ -1,0 +1,1 @@
+swfobject.embedSWF("FlxFrogger-v1.1.0-RC1.swf", "myContent", "480", "650", "9.0.0");

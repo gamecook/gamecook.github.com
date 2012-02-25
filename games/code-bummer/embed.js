@@ -1,0 +1,1 @@
+swfobject.embedSWF("CodeBummer-1.4.0.swf", "myContent", "480", "700", "9.0.0");

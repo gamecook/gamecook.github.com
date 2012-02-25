@@ -1,0 +1,1 @@
+swfobject.embedSWF("MatchHack-4.swf", "myContent", "480", "700", "9.0.0");
