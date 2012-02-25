@@ -1,30 +1,25 @@
 ---
 layout: default
-title: Alone - LD22
+title: Resident Raver
 ---
 
 <script src='game.min.js'></script>
 
-##LD22-Alone
+##Resident Raver
 
->"Alone was created during my first Ludum Dare copetition. The game is built around an Edgar Alan Poe poem and is devoid of any visuals except for the words themselves allowing the player to image the game's visuals in their own head. Creating a full game in 48 hour is a daunting task so this represent a sketch of a game I would like to expand upon in the future."
+>"Resident Raver is a mix of Super Crate Box meets Elevator Action. The goal of the game is to suvive wave after wave of raver zombies that have taken over the doorms at FSU. Pick up new weapons by entering doors and see how long you can service the raver zombie apocolypse."
+
+    **Warning**
+
+    This is a preview build of Resident Raver and may contain bugs, be compleatly unballanced,
+    or not correctly save your progress. Play at your own risk.
 
 <canvas id="canvas"></canvas>
 
-The text is a poem is by Edgar Alan Poe and the game is written in Impact JS. You will need a modern browser that supports HTML5/Canvas to run this game. As of now there is no mobile version, sorry.
+##Instructions
+Left/Right arrows move. Up arrow opens doors. X jumps and Y shoots. Esacpe pauses the game and Q quits while a game is paused.
 
 ##Download
-You can download this project in either <a href="https://github.com/gamecook/LD22-Alone/zipball/master">zip</a> or <a href="https://github.com/gamecook/LD22-Alone/tarball/master">tar</a> formats.
-
-You can also clone the project with <a href="http://git-scm.com">Git</a> by running:
-
-    $ git clone git://github.com/gamecook/LD22-Alone
-
-get the source code on GitHub : <a href="https://github.com/gamecook/LD22-Alone">gamecook/LD22-Alone</a>
-
-##Install
-
-You will need a copy of Impact’s src which needs to go inside of the <tt>impact/lib folder</tt>. After that simply run the Ant build script and the game should compile into a <tt>deploy</tt> folder.
-
+Coming Soon!
 
 {% include footer.html %}
