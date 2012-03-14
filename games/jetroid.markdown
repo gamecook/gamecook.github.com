@@ -17,7 +17,7 @@ title: Jetroid
 <canvas id="canvas"></canvas>
 
 ##Instructions
-Left/Right arrows move. X is your jetpack. Esc pauses the game and Q quits while a game is paused.
+Left/Up/Right or A/W/D keys move. Esc pauses the game and Q quits while a game is paused. Try to collect as much as you can find before your air runs. Fly into the exit at any time to end the game.
 
 ##Download
 Coming Soon!
