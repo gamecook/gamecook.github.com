@@ -11,7 +11,7 @@ title: Jetroid
 
     **Warning**
 
-    This is a preview build of Jetroid and may contain bugs, be compleatly unballanced,
+    This is a preview build of Jetroid and may contain bugs, be completely unbalanced,
     or not correctly save your progress. Play at your own risk.
 
 <canvas id="canvas"></canvas>
