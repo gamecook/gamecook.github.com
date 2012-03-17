@@ -5,9 +5,6 @@ title: Resident Raver
 
 <link href="styles.css" rel="stylesheet" type="text/css">
 
-<meta name="viewport" content="width=device-width;
-	initial-scale=1; maximum-scale=1; user-scalable=0;"/>
-
 <script src='game.min.js'></script>
 
 ##Resident Raver
