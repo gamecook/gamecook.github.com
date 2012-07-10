@@ -9,7 +9,7 @@ title: Resident Raver
 
 ##Resident Raver
 
->"Resident Raver is a mix of Super Crate Box meets Elevator Action. The goal of the game is to survive wave after wave of raver zombies that have taken over the doorms at FSU. Pick up new weapons by entering doors and see how long you can survive the raver zombie apocalypse."
+>"Resident Raver is a mix of Super Crate Box meets Elevator Action. The goal of the game is to survive wave after wave of raver zombies that have taken over the dorms at FSU. Pick up new weapons by entering doors and see how long you can survive the raver zombie apocalypse."
 
     **Warning**
 

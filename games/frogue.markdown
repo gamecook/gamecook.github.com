@@ -8,7 +8,7 @@ title: F*Rogue
 
 ##F*Rogue
 
->"F*Rogue is a Rogue like engine writen in ActionScript. F*Rogue features randomly generated maps, basic lighting effects, collision detection and stub code for buildng an inventory system. F*Rogue has unit test around core logic to ensure runs properly."
+>"F*Rogue is a Rogue like engine written in ActionScript. F*Rogue features randomly generated maps, basic lighting effects, collision detection and stub code for building an inventory system. F*Rogue has unit test around core logic to ensure runs properly."
 
 <div id="myContent">
     <h1>Alternative content</h1>
@@ -16,7 +16,7 @@ title: F*Rogue
 </div>
 
 ##Instructions
-The red square is the player. Use the arrows keys to move. Refresh the page to load a new random level. Green boxes represent random spawn points which coudl stand in for monsters or items.
+The red square is the player. Use the arrows keys to move. Refresh the page to load a new random level. Green boxes represent random spawn points which could stand in for monsters or items.
 
 
 ##Download

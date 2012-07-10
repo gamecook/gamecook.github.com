@@ -7,7 +7,7 @@ title: Alone - LD22
 
 ##LD22-Alone
 
->"Alone was created during my first Ludum Dare copetition. The game is built around an Edgar Alan Poe poem and is devoid of any visuals except for the words themselves allowing the player to image the game's visuals in their own head. Creating a full game in 48 hour is a daunting task so this represent a sketch of a game I would like to expand upon in the future."
+>"Alone was created during my first Ludum Dare competition. The game is built around an Edgar Alan Poe poem and is devoid of any visuals except for the words themselves allowing the player to image the game's visuals in their own head. Creating a full game in 48 hour is a daunting task so this represent a sketch of a game I would like to expand upon in the future."
 
 <canvas id="canvas"></canvas>
 

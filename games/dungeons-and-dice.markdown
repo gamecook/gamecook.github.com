@@ -5,7 +5,7 @@ title: Dungeons & Dice
 
 ##Dungeons & Dice
 
->"Dungeons And Dice is a dice poker RPG. The player fights against different types of monsters with a set of 5 dice. During each round the player has to decide what dice to keep and which ones to re-roll. There are 3 rounds before the final attack happens. During the 4th round (the attack round) the character with the highest set of dice wins the round and attacks the opponent. Dudgeons & Dice is underdevelopment and coming soon!"
+>"Dungeons And Dice is a dice poker RPG. The player fights against different types of monsters with a set of 5 dice. During each round the player has to decide what dice to keep and which ones to re-roll. There are 3 rounds before the final attack happens. During the 4th round (the attack round) the character with the highest set of dice wins the round and attacks the opponent. Dungeons & Dice is underdevelopment and coming soon!"
 
 ##Screenshots
 

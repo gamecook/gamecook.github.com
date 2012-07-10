@@ -8,7 +8,7 @@ title: FlxFrogger
 
 ##FlxFrogger
 
->"FlxFrogger is a remake of the classic Frogger* arcade game using Flixel, an open source Flash Game Framework. This is just at simple demo with one level but is an excellent example of a truly multi-screen Flash Game. This source code compiles to web, desktop, mobile, and any device that runs AIR/Flash."
+>"FlxFrogger is a remake of the classic Frogger* arcade game using Flixel, an open source Flash Game Framework. This is just a simple demo with one level but is an excellent example of a truly multi-screen Flash Game. This source code compiles to web, desktop, mobile, and any device that runs AIR/Flash."
 
 <div style="margin-left: 150px"" id="container">
     <div id="myContent">
