@@ -7,7 +7,7 @@ title: Super Paper Monster Smasher - LD25
 
 ##LD25-Super Paper Monster Smasher
 
->"Welcome to Super Paper Monster Smasher LD25. Use your mouse or finger to have you’re Super Paper Monster attack by pressing the left and right side of the screen. Make sure to smash all of your opponents. Avoidflying arrows and cannon balls while trying to eat goats to heal yourself."
+>"Welcome to Super Paper Monster Smasher LD25. Use your mouse or finger to have you’re Super Paper Monster attack by pressing the left and right side of the screen. Make sure to smash all of your opponents. Avoid flying arrows and cannon balls while trying to eat goats to heal yourself."
 
 <canvas id="canvas"></canvas>
 
@@ -44,10 +44,6 @@ title: Super Paper Monster Smasher - LD25
 
 <p><b>Goat</b> – restores 3 points of life.</p>
 
-<h2>Credits</h2>
-
-<p>Created by Jesse Freeman of Game Cook, inc.</p>
-
 <h2>Requirements</h2>
 
 <p>This game was built using ImpactJS and requires any modern browsers capable of supporting Canvas and Audio such as IE 9+, Chrome, Firefox and Safari. Also optimized to run on mobile phones and tablets.</p>
@@ -59,7 +55,7 @@ You can also clone the project with <a href="http://git-scm.com">Git</a> by runn
 
     $ git clone https://github.com/gamecook/LD25-Super-Paper-Monster-Smasher
 
-get the source code on GitHub : <a href="https://github.com/gamecook/LD22-Alone">gamecook/LD22-Alone</a>
+get the source code on GitHub : <a href="https://github.com/gamecook/LD25-Super-Paper-Monster-Smasher">gamecook/LD25-Super-Paper-Monster-Smasher</a>
 
 ##Install
 
