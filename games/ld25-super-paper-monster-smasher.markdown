@@ -7,7 +7,7 @@ title: Super Paper Monster Smasher - LD25
 
 ##LD25-Super Paper Monster Smasher
 
->"Welcome to Super Paper Monster Smasher LD25. Use your mouse or finger to have you’re Super Paper Monster attack by pressing the left and right side of the screen. Make sure to smash all of your opponents. Avoid flying arrows and cannon balls while trying to eat goats to heal yourself."
+>"Welcome to Super Paper Monster Smasher LD25. Use a mouse or finger to have youre Super Paper Monster attack by pressing the left and right side of the screen. Make sure to smash all of your opponents. Avoid flying arrows and cannon balls while trying to eat goats to heal yourself."
 
 <canvas id="canvas"></canvas>
 
