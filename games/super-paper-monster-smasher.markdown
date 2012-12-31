@@ -7,7 +7,7 @@ title: Super Paper Monster Smasher v0.7.0-beta
 
 ##Super Paper Monster Smasher
 
->"Welcome to Super Paper Monster Smasher. I orginally built this game for <A href="http://gamecook.com/games/ld25-super-paper-monster-smasher/" target="_blank">LD48</a> and recently cleaned it up to be a fully featured game. Use your mouse or finger to have youre Super Paper Monster attack by pressing the left and right side of the screen. Make sure to smash all of your opponents. Avoid flying arrows and cannon balls while trying to eat goats to heal yourself. I'll continue to post update to this game as I get it ready for Windows 8. Please feel free to leave feedback for the game <a target="_blank" href="https://plus.google.com/113373098067901951782/posts/JMjCmCwxBWX">here</a>."
+>"Welcome to Super Paper Monster Smasher. I originally built this game for <A href="http://gamecook.com/games/ld25-super-paper-monster-smasher/" target="_blank">LD25</a> and recently cleaned it up to be a fully featured game. Use your mouse or finger to have the Super Paper Monster attack by pressing the left and right side of the screen. Make sure to smash all of your opponents. Avoid flying arrows and cannon balls while trying to eat goats to heal yourself. I'll continue to post update to this game as I get it ready for Windows 8. Please feel free to leave feedback for the game <a target="_blank" href="https://plus.google.com/113373098067901951782/posts/JMjCmCwxBWX">here</a>."
 
 <canvas id="canvas"></canvas>
 
