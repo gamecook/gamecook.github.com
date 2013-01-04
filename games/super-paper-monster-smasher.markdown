@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Super Paper Monster Smasher v0.7.0-beta
+title: Super Paper Monster Smasher v0.9.0-beta
 ---
 
 <script src='game.min.js'></script>
