@@ -4,6 +4,8 @@ title: Super Paper Monster Smasher v0.7.0-beta
 ---
 
 <script src='game.min.js'></script>
+<script type="text/javascript" src="js/TweenLite.min.js"></script>
+<script type="text/javascript" src="js/EasePack.min.js"></script>
 
 ##Super Paper Monster Smasher
 
