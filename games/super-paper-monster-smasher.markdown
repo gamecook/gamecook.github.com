@@ -9,7 +9,7 @@ title: Super Paper Monster Smasher v0.9.0-beta
 
 ##Super Paper Monster Smasher
 
->"Welcome to Super Paper Monster Smasher. It's your turn to finally take over as the monster and smash your way through level after level of good guys all trying to put an end to your evil reign of terror. This is the updated version of my game for <A href="http://gamecook.com/games/ld25-super-paper-monster-smasher/" target="_blank">Ludum Dare 25<a/>. Please feel free to leave feedback for the game <a target="_blank" href="https://plus.google.com/113373098067901951782/posts/JMjCmCwxBWX">here</a>."
+>"Welcome to Super Paper Monster Smasher. It's your turn to finally take over as the monster and smash your way through level after level of good guys all trying to put an end to your evil reign of terror. This is the updated version of my game for <A href="http://gamecook.com/games/ld25-super-paper-monster-smasher/" target="_blank">Ludum Dare 25</a>. Please feel free to leave feedback for the game <a target="_blank" href="https://plus.google.com/113373098067901951782/posts/JMjCmCwxBWX">here</a>."
 
 <canvas id="canvas"></canvas>
 
