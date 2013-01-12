@@ -17,8 +17,6 @@ title: Super Paper Monster Smasher v0.9.0-beta
 
 <p>Click on the right or left side of the screen to make the Super Paper Monster walk/attack in that direction.</p>
 
-<p><img width=624 height=374 id="Picture 10" src="media/instructions/image002.jpg"></p>
-
 <h2>Requirements</h2>
 
 <p>This game was built using ImpactJS and requires any modern browsers capable of supporting Canvas and Audio such as IE 9+, Chrome, Firefox and Safari. Also optimized to run on mobile phones and tablets.</p>
