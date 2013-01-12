@@ -9,13 +9,13 @@ title: Super Paper Monster Smasher v0.9.0-beta
 
 ##Super Paper Monster Smasher
 
->"Welcome to Super Paper Monster Smasher. I originally built this game for <A href="http://gamecook.com/games/ld25-super-paper-monster-smasher/" target="_blank">LD25</a> and recently cleaned it up to be a fully featured game. Use your mouse or finger to have the Super Paper Monster attack by pressing the left and right side of the screen. Make sure to smash all of your opponents. Avoid flying arrows and cannon balls while trying to eat goats to heal yourself. I'll continue to post update to this game as I get it ready for Windows 8. Please feel free to leave feedback for the game <a target="_blank" href="https://plus.google.com/113373098067901951782/posts/JMjCmCwxBWX">here</a>."
+>"Welcome to Super Paper Monster Smasher. It's your turn to finally take over as the monster and smash your way through level after level of good guys all trying to put an end to your evil reign of terror. This is the updated version of my game for <A href="http://gamecook.com/games/ld25-super-paper-monster-smasher/" target="_blank">Ludum Dare 25<a/>. Please feel free to leave feedback for the game <a target="_blank" href="https://plus.google.com/113373098067901951782/posts/JMjCmCwxBWX">here</a>."
 
 <canvas id="canvas"></canvas>
 
 <h2>Controls</h2>
 
-<p>Click on the right or left side of the screen to make the Super Paper Monster jump in that direction.</p>
+<p>Click on the right or left side of the screen to make the Super Paper Monster walk/attack in that direction.</p>
 
 <p><img width=624 height=374 id="Picture 10" src="media/instructions/image002.jpg"></p>
 
